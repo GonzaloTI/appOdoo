@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222929571411",
+    "project_id": "parcialeventos-66383",
+    "storage_bucket": "parcialeventos-66383.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222929571411:android:d5b1a58a09834c1048c0a6",
+        "android_client_info": {
+          "package_name": "com.example.appeventos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIiUglr4KabeuShElTn4wxnaVr6jnzr3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
